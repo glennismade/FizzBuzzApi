@@ -1,0 +1,15 @@
+/Users/glennhealy/Deveopment/armakuniCodeChallenge/fizzbuzzapi/api/obj/Debug/net5.0/api.csproj.AssemblyReference.cache
+/Users/glennhealy/Deveopment/armakuniCodeChallenge/fizzbuzzapi/api/obj/Debug/net5.0/api.GeneratedMSBuildEditorConfig.editorconfig
+/Users/glennhealy/Deveopment/armakuniCodeChallenge/fizzbuzzapi/api/obj/Debug/net5.0/api.AssemblyInfoInputs.cache
+/Users/glennhealy/Deveopment/armakuniCodeChallenge/fizzbuzzapi/api/obj/Debug/net5.0/api.AssemblyInfo.cs
+/Users/glennhealy/Deveopment/armakuniCodeChallenge/fizzbuzzapi/api/obj/Debug/net5.0/api.csproj.CoreCompileInputs.cache
+/Users/glennhealy/Deveopment/armakuniCodeChallenge/fizzbuzzapi/api/bin/Debug/net5.0/api.deps.json
+/Users/glennhealy/Deveopment/armakuniCodeChallenge/fizzbuzzapi/api/bin/Debug/net5.0/api.runtimeconfig.json
+/Users/glennhealy/Deveopment/armakuniCodeChallenge/fizzbuzzapi/api/bin/Debug/net5.0/api.runtimeconfig.dev.json
+/Users/glennhealy/Deveopment/armakuniCodeChallenge/fizzbuzzapi/api/bin/Debug/net5.0/api.dll
+/Users/glennhealy/Deveopment/armakuniCodeChallenge/fizzbuzzapi/api/bin/Debug/net5.0/ref/api.dll
+/Users/glennhealy/Deveopment/armakuniCodeChallenge/fizzbuzzapi/api/bin/Debug/net5.0/api.pdb
+/Users/glennhealy/Deveopment/armakuniCodeChallenge/fizzbuzzapi/api/obj/Debug/net5.0/api.dll
+/Users/glennhealy/Deveopment/armakuniCodeChallenge/fizzbuzzapi/api/obj/Debug/net5.0/ref/api.dll
+/Users/glennhealy/Deveopment/armakuniCodeChallenge/fizzbuzzapi/api/obj/Debug/net5.0/api.pdb
+/Users/glennhealy/Deveopment/armakuniCodeChallenge/fizzbuzzapi/api/obj/Debug/net5.0/api.genruntimeconfig.cache
